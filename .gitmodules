@@ -1,0 +1,3 @@
+[submodule "games/submodule1"]
+	path = games/submodule1
+	url = https://github.com/alex-kumpula/SharedProjectModuleDemo.git
